@@ -29,7 +29,7 @@ export default function ConferencePage() {
           ),
         },
         {
-          time: "Evening",
+          time: "from 8pm",
           activity: "After Event Social",
           description: "Joining the Business Partner Summit & Sixes Cricket",
         },
