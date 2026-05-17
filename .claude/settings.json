@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "skill-creator@claude-plugins-official": true,
+    "umbraco-cms-backoffice-skills@umbraco-backoffice-marketplace": true
+  }
+}
