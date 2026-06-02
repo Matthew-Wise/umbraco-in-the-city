@@ -236,7 +236,7 @@ Phase 0 shows item exists with matching shape → skip. Exists with different sh
 |---|---|
 | Short text, title, label | Textstring |
 | Multi-line text (no formatting) | Textarea |
-| Rich content with links/HTML/formatting | Rich Text Editor |
+| Rich content with links/HTML/formatting multiple paragraphs | Rich Text Editor |
 | True/false toggle | Toggle |
 | Number | Numeric |
 | Date/time | Date Picker |
